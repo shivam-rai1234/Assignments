@@ -15,7 +15,7 @@ public static void main(String args[])
 	 finally
 	 {
          
-         System.out.println("number can nit divided by 0 ");
+         System.out.println("number can not divided by 0 ");
 }
 }
 }
